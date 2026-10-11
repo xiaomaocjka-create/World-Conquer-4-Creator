@@ -4,6 +4,8 @@
 
 A local scenario and map editor for **World Conqueror 4**. This repository contains Windows release packages and release notes.
 
+**Download status:** Release 0.1.0 has been withdrawn while the desktop EXE version and protection of the editor's rendering code are being reworked. There is currently no public download. English and Simplified Chinese documentation remain available.
+
 ## Download and start
 
 1. Download the Windows x64 bundle from [Releases](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/latest).
