@@ -4,6 +4,8 @@
 
 《世界征服者 4》的本地关卡与地图编辑器。本仓库仅提供 Windows 发布包和版本说明。
 
+**下载状态：** 0.1.0 已撤回，正在重新实现桌面 EXE 版本及编辑器绘制代码的保护。目前没有公开下载；英文与简体中文介绍继续保留。
+
 ## 下载与启动
 
 1. 从 [Releases](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/latest) 下载 Windows x64 完整包。
