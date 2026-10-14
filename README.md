@@ -6,13 +6,13 @@ A local scenario and map editor for **World Conqueror 4**, distributed as a Wind
 
 ## Download and start
 
-1. Download **World-Conquer-4-Creator-0.2.4-Windows-x64.zip** from [Releases](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/latest).
+1. Download **World-Conquer-4-Creator-0.2.5-Windows-x64.zip** from [Releases](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/latest).
 2. Extract the entire bundle into a writable folder.
 3. Run `WC4EditorLauncher.exe` and follow the installation prompts.
 
 Python installation is not required. A compatible local game installation is required; resources are generated locally on first use. Game assets and game data are excluded from these downloads.
 
-The editor interface remains in Simplified Chinese. The language links switch this documentation. Version 0.2.4 was verified on the maintainer's Windows 11 PC with Python removed from the program's search environment; this is not a separate clean-PC test.
+The editor defaults to English. Use **Settings → Interface language** to switch to Simplified Chinese. Open the guided tutorial from Settings; it walks through creating a stage and introduces the editors using real editor screenshots. Version 0.2.5 was verified on the maintainer's Windows 11 PC with Python removed from the program's search environment; this is not a separate clean-PC test.
 
 ## Editing and your work
 
@@ -38,10 +38,10 @@ Each build has a 14-day offline validity period, with reminders from day 11. Aft
 
 Installation presents the applicable Windows runtime terms. Dependency notices are included in the installation's `resources/licenses` directory. FFmpeg LGPLv2.1+ and Blink source and replacement instructions are provided on the same release:
 
-- [FFmpeg source](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.4/NW-runtime-FFmpeg-source-0.118.0.tar.gz)
-- [Blink source](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.4/NW-runtime-Blink-source-0.118.0.tar.gz)
-- [Source and runtime replacement instructions](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.4/NW-runtime-source-instructions-0.118.0.zip)
+- [FFmpeg source](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.5/NW-runtime-FFmpeg-source-0.118.0.tar.gz)
+- [Blink source](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.5/NW-runtime-Blink-source-0.118.0.tar.gz)
+- [Source and runtime replacement instructions](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.5/NW-runtime-source-instructions-0.118.0.zip)
 
-These are third-party component sources, not the editor's implementation. Downloads exclude game assets, game data, user projects, research, repository history and signing private keys. Release 0.1.0 remains withdrawn.
+These are third-party component sources, not the editor's implementation. Downloads exclude game assets, game data, user projects, research, repository history and signing private keys. Releases 0.1.0 and 0.2.4 have been withdrawn.
 
 This independent project is not an official EasyTech product. World Conqueror 4 and its assets belong to their respective owners.
