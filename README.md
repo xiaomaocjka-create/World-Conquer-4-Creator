@@ -10,6 +10,8 @@ A local scenario and map editor for **World Conqueror 4**, distributed as a Wind
 2. Extract the entire bundle into a writable folder.
 3. Run `WC4EditorLauncher.exe` and follow the installation prompts.
 
+**To update:** Close the editor, extract the complete new Windows-x64 ZIP into a new folder, and run its `WC4EditorLauncher.exe`. The launcher preserves existing work. `WC4Editor-0.2.8.zip` is an automatic-update payload, not the first-install package.
+
 Python installation is not required. A compatible local game installation is required; resources are generated locally on first use. Game assets and game data are excluded from these downloads.
 
 The editor defaults to English. Use **Settings → Interface language** to switch to Simplified Chinese. Open the guided tutorial from Settings; it walks through creating a stage and introduces the editors through guided interactions in the editor. Version 0.2.8 was verified on the maintainer's Windows 11 PC with Python removed from the program's search environment; this is not a separate clean-PC test.
@@ -42,6 +44,6 @@ Installation presents the applicable Windows runtime terms. Dependency notices a
 - [Blink source](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.8/NW-runtime-Blink-source-0.118.0.tar.gz)
 - [Source and runtime replacement instructions](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.8/NW-runtime-source-instructions-0.118.0.zip)
 
-These are third-party component sources, not the editor's implementation. Downloads exclude game assets, game data, user projects, research, repository history and signing private keys. Releases 0.1.0 and 0.2.4 have been withdrawn.
+These are third-party component sources, not the editor's implementation. Downloads exclude game assets, game data, user projects, research, repository history and signing private keys. The 0.1.0 release was withdrawn; 0.2.4 remains an unpublished draft.
 
 This independent project is not an official EasyTech product. World Conqueror 4 and its assets belong to their respective owners.
