@@ -6,13 +6,13 @@
 
 ## 下载与启动
 
-1. 从 [Releases](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/latest) 下载 **World-Conquer-4-Creator-0.2.5-Windows-x64.zip**。
+1. 从 [Releases](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/latest) 下载 **World-Conquer-4-Creator-0.2.8-Windows-x64.zip**。
 2. 将整个发布包解压到可写文件夹。
 3. 运行 `WC4EditorLauncher.exe`，按提示完成安装。
 
 无需安装 Python，但需要本机已有兼容的游戏安装；首次使用时会在本机生成所需资源。发布包不包含游戏素材及游戏数据。
 
-编辑器默认英文，可在 **Settings → Interface language** 切换简体中文。设置中的使用教程通过原编辑器真实截图，演示从零创建关卡，并依次介绍各个编辑器。
+编辑器默认英文，可在 **Settings → Interface language** 切换简体中文。设置中的使用教程通过编辑器内的受限交互步骤，引导从零创建关卡，并依次介绍各个编辑器。
 
 ## 编辑与作品
 
@@ -38,9 +38,9 @@ HTML／CSS、加载信号、数据和界面文字、动态事件调用表达式�
 
 安装时会显示适用的 Windows 运行库条款。第三方告知位于安装目录的 `resources/licenses`。FFmpeg LGPLv2.1+、Blink 对应源码及运行库替换说明随同本次发布提供：
 
-- [FFmpeg 源码](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.5/NW-runtime-FFmpeg-source-0.118.0.tar.gz)
-- [Blink 源码](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.5/NW-runtime-Blink-source-0.118.0.tar.gz)
-- [源码与运行库替换说明](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.5/NW-runtime-source-instructions-0.118.0.zip)
+- [FFmpeg 源码](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.8/NW-runtime-FFmpeg-source-0.118.0.tar.gz)
+- [Blink 源码](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.8/NW-runtime-Blink-source-0.118.0.tar.gz)
+- [源码与运行库替换说明](https://github.com/xiaomaocjka-create/World-Conquer-4-Creator/releases/download/v0.2.8/NW-runtime-source-instructions-0.118.0.zip)
 
 这些是第三方组件源码，不是编辑器实现源码。下载包不含游戏素材、游戏数据、用户作品、研究、仓库历史或签名私钥；0.1.0 继续保持撤回。
 
