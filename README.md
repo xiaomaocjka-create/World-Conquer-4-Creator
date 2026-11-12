@@ -26,7 +26,14 @@ World Conqueror 4, its trademarks, artwork, audio and original game content belo
 
 Work and generated resources are stored separately from the application under `%LOCALAPPDATA%\WC4Editor`. To update, close Creator, extract the complete new bundle into a new folder, and run its launcher. Updates preserve work; back up important projects.
 
-Update packages use signed manifests. Each build has a 14-day offline validity period, with reminders from day 11. After expiry, viewing and exporting remain available; editing and deployment require a valid version. A signed online policy may also make a release read-only. See release notes for exact dates.
+## Validity and release protection
+
+- **Each build has a 14-day offline validity period, with reminders from day 11.** See its release notes for exact dates.
+- **After expiry, viewing and exporting remain available; editing, writing changes and deployment require a valid version.** Expiry does not delete existing work. Update to a valid release to continue editing.
+- Signed manifests authenticate update packages. A signed online policy may also make a release read-only.
+- Creator's own business implementation is distributed in compiled form to reduce direct source disclosure. Compilation does not prevent reverse engineering. Required third-party notices and sources remain available under their licences.
+
+These measures manage Creator's releases and validity; they do not change ownership of the original game or its content.
 
 ## Third-party components
 
